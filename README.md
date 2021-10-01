@@ -46,6 +46,10 @@ Rawg::Client.games_genre
 ![image](https://user-images.githubusercontent.com/71489331/135613880-37bd1616-b538-4402-9913-66f4eee5e199.png)
 
 ### Game Stores
+
+```
 Rawg::Client.game_stores(id)
+```
+
 
 ![image](https://user-images.githubusercontent.com/71489331/135613943-371f9b33-8edd-464c-88a7-91e96d89ac94.png)
