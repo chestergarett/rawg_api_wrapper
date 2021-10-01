@@ -1,10 +1,10 @@
-**RAWG GAME API**
+#RAWG GAME API
 
 A Ruby client for the The RAWG IO API.
 
-**Table of Contents**
+#Table of Contents
 
-# Game List
+### Game List
 Rawg::Client.list_games
 
 ![image](https://user-images.githubusercontent.com/71489331/135613554-48c55e51-144f-49e6-b19c-b6ee4d290693.png)
