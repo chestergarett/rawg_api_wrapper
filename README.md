@@ -7,15 +7,15 @@ A Ruby client for the The RAWG IO API.
 **USAGE**
 
 # Game List
-- Game Screenshots
-- Game Details
-- Game Trailers
-- Game Genres
-- Game Stores
+# Game Screenshots
+# Game Details
+# Game Trailers
+# Game Genres
+# Game Stores
 
 Usage
 
-[**Game List**](#game list)
+[**Game List**](#game-list)
 Rawg::Client.list_games
 
 ![image](https://user-images.githubusercontent.com/71489331/135613554-48c55e51-144f-49e6-b19c-b6ee4d290693.png)
