@@ -1,24 +1,14 @@
-# README
+**RAWG GAME API**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby client for the The RAWG IO API.
 
-Things you may want to cover:
+**Table of Contents**
 
-* Ruby version
+**USAGE**
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Game List
+- Game Screenshots
+- Game Details
+- Game Trailers
+- Game Genres
+- Game Stores
