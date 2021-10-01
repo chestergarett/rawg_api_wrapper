@@ -1,6 +1,7 @@
 # RAWG GAME API
 
 A Ruby client for the The RAWG IO API.
+https://chestergarett-rawg.herokuapp.com/api
 
 # Table of Contents
 
