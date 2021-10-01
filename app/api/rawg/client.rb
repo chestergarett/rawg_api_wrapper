@@ -24,5 +24,13 @@ module Rawg
     def self.game_stores(id)
       response = Request.call('get', "/games/#{id}/stores")
     end
+
+    def self.platforms
+      response = Request.call('get', "/platforms")
+    end
+
+    def self.tags
+      response = Request.call('get', "/tags")
+    end
   end
 end

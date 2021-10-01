@@ -6,6 +6,7 @@ Rails.application.routes.draw do
     get '/game-details' => 'games#game_details'
     get '/game-trailers' => 'games#game_trailers'
     get '/games-genre' => 'games#games_genre'
-    get '/game-stores' => 'games#game_stores'
+    get '/games-platforms' => 'games#games_platforms'
+    get '/games-tags' => 'games#games_tags'
   end
 end

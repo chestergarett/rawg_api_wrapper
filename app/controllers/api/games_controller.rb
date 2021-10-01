@@ -29,5 +29,15 @@ module Api
       game_stores = Rawg::Client.game_stores(params[:id])
       render json: game_stores
     end
+
+    def games_platforms
+      games_platforms = Rawg::Client.platforms
+      render json: games_platforms
+    end
+
+    def games_tags
+      games_tags = Rawg::Client.tags
+      render json: games_tags
+    end
   end
 end
