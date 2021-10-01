@@ -9,4 +9,6 @@ Rails.application.routes.draw do
     get '/games-platforms' => 'games#games_platforms'
     get '/games-tags' => 'games#games_tags'
   end
+
+  root 'pages#home'
 end
