@@ -21,7 +21,8 @@ https://github.com/chestergarett/rawg_front_end
 [Game Genres](#game-genres)
 
 # Usage
-<a name="game-list")/> ###Game List
+###Game List <a name="game-list" />
+
 ```
 Rawg::Client.list_games
 
