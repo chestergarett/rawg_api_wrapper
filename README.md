@@ -10,10 +10,10 @@ Front end setup codebase:
 https://github.com/chestergarett/rawg_front_end
 
 # Table of Contents
-[Game List] (#game-list)
+[Game List](#game-list)
 
 # Usage
-### <a name="game-list")>Game List</a>
+<a name="game-list")>Game List</a>
 ```
 Rawg::Client.list_games
 
