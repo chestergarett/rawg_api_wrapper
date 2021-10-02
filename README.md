@@ -3,8 +3,11 @@
 A Ruby client for the The RAWG IO API.
 https://chestergarett-rawg.herokuapp.com
 
-sample front end concept using React: https://chestergarett-durawg-0f82d5.netlify.app/
-front end setup codebase: https://github.com/chestergarett/rawg_front_end
+Sample front end concept using React: 
+https://chestergarett-durawg-0f82d5.netlify.app/
+
+Front end setup codebase: 
+https://github.com/chestergarett/rawg_front_end
 
 # Table of Contents
 
